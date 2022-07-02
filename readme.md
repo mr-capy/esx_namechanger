@@ -2,6 +2,7 @@
 **Description:**
     This is just a simple script for a normal player can change or watch his firstname and lastname 
 
+**Preview:** https://youtu.be/JkvjIb29un4
 
 **Credits:**
 
